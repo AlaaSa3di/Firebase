@@ -1,7 +1,7 @@
 # Firebase
 
 This project demonstrates a basic CRUD (Create, Read, Update, Delete) web application using JavaScript and the [Firebase](https://console.firebase.google.com/project/first-project-ac1c4/overview). The app fetches, displays, and manages products dynamically.
-## to live URL click here [fake-store](https://alaasa3di.github.io/fakestoreapi/).
+## to live URL click here [fake-store](https://alaasa3di.github.io/Firebase/).
 
 
 
